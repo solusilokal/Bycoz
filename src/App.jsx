@@ -135,7 +135,7 @@ export default function App() {
   const getShareUrl = () => {
     return window.location.href.startsWith('http') 
       ? window.location.href 
-      : 'https://bycoz.solusilokal.id';
+      : 'https://solusilokal.github.io/Bycoz/';
   };
 
   const getShareText = () => {

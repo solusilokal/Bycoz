@@ -49,19 +49,23 @@ const singleHtml = `<!doctype html>
 
     <!-- Open Graph / Facebook / WhatsApp -->
     <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Bycoz" />
     <meta property="og:url" content="https://solusilokal.github.io/Bycoz/" />
     <meta property="og:title" content="Bycoz - Rental Sepeda Premium Palangka Raya" />
     <meta property="og:description" content="Sewa sepeda mudah, terjangkau, dan berkualitas. Pilihan City Bike, MTB, Sepeda Lipat, hingga Road Bike di Palangka Raya." />
-    <meta property="og:image" content="./gambarSEO.png" />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
+    <meta property="og:image" content="https://solusilokal.github.io/Bycoz/gambarSEO.jpg" />
+    <meta property="og:image:secure_url" content="https://solusilokal.github.io/Bycoz/gambarSEO.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="709" />
+    <meta property="og:image:height" content="937" />
+    <meta property="og:image:alt" content="Bycoz - Rental Sepeda Premium Palangka Raya" />
 
     <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="https://solusilokal.github.io/Bycoz/" />
-    <meta property="twitter:title" content="Bycoz - Rental Sepeda Premium Palangka Raya" />
-    <meta property="twitter:description" content="Sewa sepeda mudah, terjangkau, dan berkualitas. Pilihan City Bike, MTB, Sepeda Lipat, hingga Road Bike di Palangka Raya." />
-    <meta property="twitter:image" content="./gambarSEO.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://solusilokal.github.io/Bycoz/" />
+    <meta name="twitter:title" content="Bycoz - Rental Sepeda Premium Palangka Raya" />
+    <meta name="twitter:description" content="Sewa sepeda mudah, terjangkau, dan berkualitas. Pilihan City Bike, MTB, Sepeda Lipat, hingga Road Bike di Palangka Raya." />
+    <meta name="twitter:image" content="https://solusilokal.github.io/Bycoz/gambarSEO.jpg" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
